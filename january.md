@@ -63,24 +63,30 @@
 
 ## 14 - Monday
   - Phuket
+  - Sail
 
 ## 15 - Tuesday
   - Andaman Sea
+  - Sail
 
 ## 16 - Wednesday
   - Andaman Sea
 
 ## 17 - Thursday
   - Andaman Sea
+  - Sail
 
 ## 18 - Friday
   - Andaman Sea
+  - Sail
 
 ## 19 - Saturday
   - Andaman Sea
+  - Sail
 
 ## 20 - Sunday
   - Andaman Sea
+  - Sail
 
 ## 21 - Monday
   - Phuket
@@ -108,13 +114,13 @@
   - Tokyo
 
 ## 28 - Monday
-  - Tokyo
+  - Lisbon or Seville
 
 ## 29 - Tuesday
-  - Somewhere in Europe
+  - Lisbon or Seville
 
 ## 30 - Wednesday
-  - Somewhere in Europe
+  - Lisbon or Seville
 
 ## 31 - Thursday
-  - Somewhere in Europe
+  - Lisbon or Seville
