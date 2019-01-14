@@ -62,51 +62,57 @@
   - Phuket
 
 ## 14 - Monday
-  - Phuket
-  - Sail
+  - Sail North Phuket Island
 
 ## 15 - Tuesday
-  - Andaman Sea
-  - Sail
+  - Sail North Phuket Island
 
 ## 16 - Wednesday
-  - Andaman Sea
+  - Sail around Ko Yao Yai
+  - Tup Kaek
 
 ## 17 - Thursday
-  - Andaman Sea
-  - Sail
+  - Koh Phak Bia
+  - Ko Hong
+  - Ko Dam Hok
+  - Railay
 
 ## 18 - Friday
-  - Andaman Sea
-  - Sail
+  - Ko Mai Phai
+  - Phi Phi Island
 
 ## 19 - Saturday
-  - Andaman Sea
-  - Sail
+  - Monkey beach
+  - Ko Phi Phi Lee
+  - Tonsai Beach
 
 ## 20 - Sunday
-  - Andaman Sea
-  - Sail
+  - Kao Yao Yai
+  - Ko Nakha Noi
 
 ## 21 - Monday
   - Phuket
+  - Sail Back to Northern
   - Bangkok
   - Tokyo
 
 ## 22 - Tuesday
   - Tokyo
   - Nagano
+  - Hakuba
+  - Goryu
 
 ## 23 - Wednesday
-  - Nagano
+  - Hakuba
 
 ## 24 - Thursday
-  - Nagano
+  - Hakuba
 
 ## 25 - Friday
-  - Nagano
+  - Hakuba
 
 ## 26 - Saturday
+  - Hakuba
   - Nagano
   - Tokyo
 
@@ -114,13 +120,13 @@
   - Tokyo
 
 ## 28 - Monday
-  - Lisbon or Seville
+  - Lisbon
 
 ## 29 - Tuesday
-  - Lisbon or Seville
+  - Lisbon
 
 ## 30 - Wednesday
-  - Lisbon or Seville
+  - Lisbon
 
 ## 31 - Thursday
-  - Lisbon or Seville
+  - Lisbon
