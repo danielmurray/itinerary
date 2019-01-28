@@ -100,16 +100,16 @@
   - Tokyo
   - Nagano
   - Hakuba
-  - Goryu
 
 ## 23 - Wednesday
-  - Hakuba
+  - Hakuba47
 
 ## 24 - Thursday
-  - Hakuba
+  - Norikura
+  - Cortina
 
 ## 25 - Friday
-  - Hakuba
+  - Iwatake
 
 ## 26 - Saturday
   - Hakuba
@@ -118,6 +118,8 @@
 
 ## 27 - Sunday
   - Tokyo
+  - Moscow
+  - Lisbon
 
 ## 28 - Monday
   - Lisbon
