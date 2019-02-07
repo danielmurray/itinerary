@@ -32,18 +32,20 @@
 
 ## 11 - Monday
   - Lisbon
+  - Milan
 
 ## 12 - Tuesday
-  - Lisbon
+  - Milan
 
 ## 13 - Wednesday
-  - Lisbon
+  - Milan
 
 ## 14 - Thursday
-  - Lisbon
+  - Milan
 
 ## 15 - Friday
-  - Lisbon
+  - Milan
+  - Paris
   - San Francisco
 
 ## 16 - Saturday
@@ -60,9 +62,10 @@
 
 ## 20 - Wednesday
   - San Francisco
-  - Whistler
+  - Seattle
 
 ## 21 - Thursday
+  - Seattle
   - Whistler
 
 ## 22 - Friday
@@ -82,6 +85,7 @@
 
 ## 27 - Wednesday
   - Seattle
+  - Whistler
 
 ## 28 - Thursday
   - Whistler
