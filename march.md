@@ -8,9 +8,10 @@
 
 ## 3 - Sunday
   - Whistler
-  - San Francisco
+  - Seattle
 
 ## 4 - Monday
+  - Seattle
   - San Francisco
 
 ## 5 - Tuesday
@@ -27,10 +28,9 @@
 
 ## 9 - Saturday
   - San Francisco
-  - Oregon
 
 ## 10 - Sunday
-  - Oregon
+  - San Francisco
   - Seattle
 
 ## 11 - Monday
