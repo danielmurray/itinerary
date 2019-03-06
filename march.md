@@ -31,27 +31,27 @@
 
 ## 10 - Sunday
   - San Francisco
-  - Seattle
 
 ## 11 - Monday
-  - Seattle
+  - San Francisco
 
 ## 12 - Tuesday
-  - Seattle
+  - San Francisco
 
 ## 13 - Wednesday
-  - Seattle
+  - San Francisco
 
 ## 14 - Thursday
-  - Seattle
+  - San Francisco
 
 ## 15 - Friday
-  - Seattle
+  - San Francisco
 
 ## 16 - Saturday
-  - Seattle
+  - San Francisco
 
 ## 17 - Sunday
+  - San Francisco
   - Seattle
 
 ## 18 - Monday
@@ -77,12 +77,12 @@
 
 ## 25 - Monday
   - Seattle
-  - Miami
 
 ## 26 - Tuesday
-  - Miami
+  - Seattle
 
 ## 27 - Wednesday
+  - Seattle
   - Miami
 
 ## 28 - Thursday
