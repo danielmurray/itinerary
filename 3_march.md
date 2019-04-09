@@ -1,51 +1,50 @@
-# February
+# March
 
 ## 1 - Friday
-  - Lisbon
+  - Whistler
 
 ## 2 - Saturday
-  - Lisbon
+  - Whistler
 
 ## 3 - Sunday
-  - Lisbon
+  - Whistler
+  - Seattle
 
 ## 4 - Monday
-  - Lisbon
+  - Seattle
+  - San Francisco
 
 ## 5 - Tuesday
-  - Lisbon
+  - San Francisco
 
 ## 6 - Wednesday
-  - Lisbon
+  - San Francisco
 
 ## 7 - Thursday
-  - Lisbon
+  - San Francisco
 
 ## 8 - Friday
-  - Lisbon
+  - San Francisco
 
 ## 9 - Saturday
-  - Lisbon
+  - San Francisco
 
 ## 10 - Sunday
-  - Lisbon
+  - San Francisco
 
 ## 11 - Monday
-  - Lisbon
-  - Milan
+  - San Francisco
 
 ## 12 - Tuesday
-  - Milan
+  - San Francisco
 
 ## 13 - Wednesday
-  - Milan
+  - San Francisco
 
 ## 14 - Thursday
-  - Milan
+  - San Francisco
 
 ## 15 - Friday
-  - Milan
-  - Paris
   - San Francisco
 
 ## 16 - Saturday
@@ -53,29 +52,29 @@
 
 ## 17 - Sunday
   - San Francisco
+  - Portland
 
 ## 18 - Monday
-  - San Francisco
+  - Portland
+  - Seattle
 
 ## 19 - Tuesday
-  - San Francisco
+  - Seattle
 
 ## 20 - Wednesday
-  - San Francisco
   - Seattle
 
 ## 21 - Thursday
   - Seattle
-  - Whistler
 
 ## 22 - Friday
-  - Whistler
+  - Seattle
 
 ## 23 - Saturday
-  - Whistler
+  - Seattle
 
 ## 24 - Sunday
-  - Whistler
+  - Seattle
 
 ## 25 - Monday
   - Seattle
@@ -85,7 +84,17 @@
 
 ## 27 - Wednesday
   - Seattle
-  - Whistler
+  - Miami
 
 ## 28 - Thursday
-  - Whistler
+  - Miami
+
+## 29 - Friday
+  - Miami
+
+## 30 - Saturday
+  - Miami
+
+## 31 - Sunday
+  - Miami
+  - Sunset Beach
