@@ -1,19 +1,20 @@
 # May
 
 ## 1 - Wednesday
-  - Dubrovnik
+  - Budapest
 
 ## 2 - Thursday
-  - Dubrovnik
+  - Budapest
 
 ## 3 - Friday
-  - Dubrovnik
+  - Budapest
 
 ## 4 - Saturday
-  - Dubrovnik
+  - Budapest
 
 ## 5 - Sunday
-  - Dubrovnik
+  - Budapest
+  - Zagreb
   - Split
 
 ## 6 - Monday

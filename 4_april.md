@@ -81,17 +81,16 @@
 
 ## 26 - Friday
   - London
-  - Amsterdam
 
 ## 27 - Saturday
-  - Amsterdam
+  - London
 
 ## 28 - Sunday
-  - Amsterdam
-  - Dubrovnik
+  - London
+  - Budapest
 
 ## 29 - Monday
-  - Dubrovnik
+  - Budapest
 
 ## 30 - Tuesday
-  - Dubrovnik
+  - Budapest
