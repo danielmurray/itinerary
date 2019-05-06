@@ -40,39 +40,43 @@
 
 ## 13 - Monday
   - Split
-  - ???
+  - Paris
 
 ## 14 - Tuesday
-  - ???
+  - Paris
 
 ## 15 - Wednesday
-  - ???
+  - Paris
+  - New York
 
 ## 16 - Thursday
-  - ???
+  - New York
 
 ## 17 - Friday
-  - ???
+  - New York
+  - DC
 
 ## 18 - Saturday
-  - ???
+  - DC
 
 ## 19 - Sunday
-  - ???
+  - DC
+  - Chicago
 
 ## 20 - Monday
-  - ???
+  - Chicago
 
 ## 21 - Tuesday
-  - ???
+  - Chicago
 
 ## 22 - Wednesday
-  - ???
+  - Chicago
 
 ## 23 - Thursday
-  - ???
+  - Chicago
 
 ## 24 - Friday
+  - Chicago
   - Detroit
 
 ## 25 - Saturday
@@ -80,15 +84,15 @@
 
 ## 26 - Sunday
   - Detroit
-  - Seattle
 
 ## 27 - Monday
-  - Seattle
+  - Detroit
 
 ## 28 - Tuesday
-  - Seattle
+  - Detroit
 
 ## 29 - Wednesday
+  - Detroit
   - Seattle
 
 ## 30 - Thursday
