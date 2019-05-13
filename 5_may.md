@@ -31,6 +31,7 @@
 
 ## 10 - Friday
   - Split
+  - Hvar
 
 ## 11 - Saturday
   - Split
