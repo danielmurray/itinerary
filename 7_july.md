@@ -48,52 +48,51 @@
 
 ## 15 - Monday
   - Seattle
-  - ???
 
 ## 16 - Tuesday
-  - ???
+  - Seattle
 
 ## 17 - Wednesday
-  - ???
+  - Seattle
 
 ## 18 - Thursday
-  - ???
+  - Seattle
 
 ## 19 - Friday
-  - ???
+  - Seattle
 
 ## 20 - Saturday
-  - ???
+  - Seattle
 
 ## 21 - Sunday
-  - ???
+  - Seattle
 
 ## 22 - Monday
-  - ???
+  - Seattle
 
 ## 23 - Tuesday
-  - ???
+  - Seattle
 
 ## 24 - Wednesday
-  - ???
+  - Seattle
 
 ## 25 - Thursday
-  - ???
+  - Seattle
 
 ## 26 - Friday
-  - ???
+  - Seattle
 
 ## 27 - Saturday
-  - ???
+  - Seattle
 
 ## 28 - Sunday
-  - ???
+  - Seattle
 
 ## 29 - Monday
-  - ???
+  - Seattle
 
 ## 30 - Tuesday
-  - ???
+  - Seattle
 
 ## 31 - Wednesday
-  - ???
+  - Seattle
